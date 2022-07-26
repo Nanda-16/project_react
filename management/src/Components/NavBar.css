@@ -1,0 +1,22 @@
+.head {
+    color: rgb(8, 8, 145);
+    place-items: center;
+    display: flex;
+    justify-content: center;
+    background-image: url("https://images.pexels.com/photos/3075993/pexels-photo-3075993.jpeg?auto=compress&cs=tinysrgb&w=1200");
+}
+
+#heading1 {
+    color: rgb(5, 67, 56);
+}
+
+#text1 {
+    color: rgb(46, 0, 71);
+}
+
+.light {
+    background-image: url("https://images.pexels.com/photos/2531608/pexels-photo-2531608.jpeg?auto=compress&cs=tinysrgb&w=1200");
+    color: hsla(0, 100%, 30%, 0.461);
+    width: 350px;
+    border: 0px;
+}
